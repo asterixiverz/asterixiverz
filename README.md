@@ -2,8 +2,7 @@
 
 - 👋 Hi, I’m Iverz.
 - 👀 I’m interested in Android Open Source Project Development (Custom-ROM).
-- 🌱 I’m currently learning about everything on android.
-- 💞️ I’m looking to collaborate on AfterLifePrjkt13.
+- 🌱 I’m currently learning about everything on Android.
 - 👀 I am looking for a mentor and teacher to learn about the above.
 
 <!---
