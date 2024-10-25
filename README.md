@@ -17,4 +17,4 @@ I'll probably learn Go soon...
 
 <h2>How can I know more about you?</h2>
 
-<a href="https://t.me/JustVerz"><img src="https://img.shields.io/badge/hipexscape-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="asterixiverz@gmail.com"><img src="https://img.shields.io/badge/abhinav.3181@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/JustVerz"><img src="https://img.shields.io/badge/Iverz-2CA5E0?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"/></a>&nbsp;&nbsp;&nbsp;<a href="asterixiverz@gmail.com"><img src="https://img.shields.io/badge/asterixiverz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
